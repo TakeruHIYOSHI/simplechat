@@ -153,7 +153,7 @@ def extract_region_from_arn(arn):
     return "us-east-1"
 
 # FastAPIのURL（公開URL）
-FASTAPI_URL = "https://3248-34-19-96-130.ngrok-free.app/generate"
+FASTAPI_URL = "https://3f88-35-204-0-153.ngrok-free.app/generate"
 
 def lambda_handler(event, context):
     try:
